@@ -1,1 +1,3 @@
 Detta är våran textfil
+Thomas lägger till mera text i dokumentet.
+Thomas lägget till lite mera text.
