@@ -1,1 +1,3 @@
 Detta är våran textfil
+
+Vi tänkte berätta varför git och github kan vara hjälpfullt eller något.
