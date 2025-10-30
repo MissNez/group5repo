@@ -4,6 +4,7 @@ Detta är våran textfil
 2. Punktlistan fungerar förhoppningsvis
 
 3. Detta är mitt bidrag.
+4. Testar en till ändring.
 
 Cats: mysterious, independent, and utterly captivating creatures. With their graceful movements, piercing eyes, and purring contentment, 
 cats have charmed their way into our hearts and homes. From playful kittens to wise old felines, each cat possesses a unique personality, 
