@@ -1,4 +1,23 @@
 Detta är våran textfil
+<<<<<<< HEAD
 Thomas lägger till mera text i dokumentet.
 Thomas lägget till lite mera text.
 Thoms lägger till en lista med en massa bra saker.
+=======
+
+1. Detta är en punktlista
+2. Punktlistan fungerar förhoppningsvis
+
+
+Cats: mysterious, independent, and utterly captivating creatures. With their graceful movements, piercing eyes, and purring contentment, 
+cats have charmed their way into our hearts and homes. From playful kittens to wise old felines, each cat possesses a unique personality, 
+making them endlessly entertaining companions. Whether they're napping in sunbeams, stalking imaginary prey, or simply seeking a warm lap, 
+cats bring a touch of magic and a whole lot of love to our lives.
+
+Mice: small, quick, and often underestimated, these tiny mammals play a surprisingly significant role in the natural world. 
+With their twitching whiskers, curious eyes, and nimble paws, mice are constantly exploring their surroundings, scurrying through tunnels, 
+and searching for food. Though often seen as shy, they are incredibly adaptable, thriving in diverse environments. 
+From their vital role in the food chain to their impact on ecosystems, mice remind us that even the smallest creatures can have a big impact.
+
+
+>>>>>>> origin/main
